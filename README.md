@@ -1,3 +1,3 @@
 # CVs
 
-This repo contains my up-to-date CVs. They are filled with hyperlinks to my previous projects, so you better download ones in order to get all information provided.
+This repo contains my up-to-date CV. It is full hyperlinks to my previous projects, therefore you better download it in order to get all the information provided.
